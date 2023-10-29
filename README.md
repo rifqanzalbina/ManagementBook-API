@@ -16,4 +16,8 @@ ManagementBook-API is a Restful - API designed to facilliatate the management an
 - **Performance Optimization** : Make sure that search queries and other operations in your application are optimized for performance. 
 - **Test and Validation** : Create unit tests to ensure your application functions work correctly. Perform input validation to ensure the data entered is valid
 - **Favorite Book List** : Users can mark books as favorites and view a list of their favorite books. 
-- **Input Validation** : Strengthen input validation to prevent input of incorrect or incomplete data. 
+- **Input Validation** : Strengthen input validation to prevent input of incorrect or incomplete data.
+
+## Made By
+- rifqanzalbina
+
