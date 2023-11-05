@@ -59,7 +59,7 @@ function showAllBooks() {
 
 // ShowSearchResults
 function showSearchResults(keyword, page, orderBy, orderDirection) {
-  const itemsPerPage = 5; // Pastikan ini sesuai dengan pengaturan di fungsi searchBooks
+  const itemsPerPage = 5;
   searchBooks(keyword, page, orderBy, orderDirection, (err, books) => {
     if (err) {
       console.error('Terjadi kesalahan saat mencari buku.');
